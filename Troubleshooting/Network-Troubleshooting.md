@@ -168,3 +168,7 @@ date: Tue, 10 Sep 2024 12:00:00 GMT
 - **systemctl:** Ensure network services are running properly.
 
 By using these commands in sequence, you can pinpoint where the issue might be occurring—whether it’s a connectivity problem, a DNS resolution issue, or something on the local machine.
+
+
+---
+*Source Repository: [https://github.com/Nency-Ravaliya/Network-Troubleshooting](https://github.com/Nency-Ravaliya/Network-Troubleshooting)*

@@ -92,3 +92,7 @@ In a café:
 - **Trunk Port**: Carries traffic for multiple VLANs.
 - **Router**: Enables communication between VLANs and directs internet traffic.
 - **Real-Life Scenario**: Use VLANs to separate staff and guest Wi-Fi, or separate departments in an office for security and traffic management.
+
+
+---
+*Source Repository: [https://github.com/Nency-Ravaliya/VLAN](https://github.com/Nency-Ravaliya/VLAN)*

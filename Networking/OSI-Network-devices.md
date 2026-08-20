@@ -91,3 +91,7 @@ These layers deal with application-level functions such as encryption, formattin
 - **Subnet Mask (Layer 3)**: Defines the network portion of an IP address.
 - **Port (Layer 4)**: Identifies services on a device (e.g., web server).
 - **Hop (Layer 3)**: Each router or gateway a packet passes through on its way to the destination.
+
+
+---
+*Source Repository: [https://github.com/Nency-Ravaliya/OSI-Network-devices](https://github.com/Nency-Ravaliya/OSI-Network-devices)*

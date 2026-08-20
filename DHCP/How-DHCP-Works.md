@@ -95,3 +95,7 @@ Here’s a quick look at how DHCP fits into the OSI model:
 - In your home network, your router acts as the DHCP server.
 - The DHCP process includes four main steps: Discover, Offer, Request, and Acknowledge.
 - After the DHCP process, your laptop has all the network configurations needed to communicate with other devices and access the internet.
+
+
+---
+*Source Repository: [https://github.com/Nency-Ravaliya/How-DHCP-Works](https://github.com/Nency-Ravaliya/How-DHCP-Works)*

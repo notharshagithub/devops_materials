@@ -20,3 +20,7 @@ Modify the previous exercise so that the script continues, even if an error occu
 
 #### Hint:
 Use `set +e` to allow the script to continue after an error.
+
+
+---
+*Source Repository: [https://github.com/Nency-Ravaliya/Shell-scripting](https://github.com/Nency-Ravaliya/Shell-scripting)*

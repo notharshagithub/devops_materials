@@ -75,3 +75,7 @@ With a `/26` subnet mask, the new subnets are:
   - **Broadcast Address per Subnet:** 1 (not usable by hosts)
 
 By dividing the original network into smaller `/26` subnets, you create 4 manageable segments, each with 62 usable IP addresses, improving organization and network efficiency.
+
+
+---
+*Source Repository: [https://github.com/Nency-Ravaliya/Subnetting](https://github.com/Nency-Ravaliya/Subnetting)*

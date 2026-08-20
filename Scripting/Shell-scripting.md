@@ -105,3 +105,7 @@ There are several types of shells available in Unix-like operating systems such 
 | **ash**      | `/bin/ash`   | Embedded systems               | Lightweight, fast                              |
 
 Each of these shells has unique strengths, depending on the task (e.g., scripting, interactivity) and the user's preferences.
+
+
+---
+*Source Repository: [https://github.com/Nency-Ravaliya/Shell-scripting](https://github.com/Nency-Ravaliya/Shell-scripting)*

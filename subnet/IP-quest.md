@@ -107,3 +107,7 @@ Thus, the number of usable IP addresses is:
 
 ### Conclusion:
 A subnet with a `/21` CIDR notation has **2046 usable IP addresses**.
+
+
+---
+*Source Repository: [https://github.com/Nency-Ravaliya/IP-quest](https://github.com/Nency-Ravaliya/IP-quest)*

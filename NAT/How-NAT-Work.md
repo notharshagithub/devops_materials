@@ -54,3 +54,7 @@ NAT is a process that occurs on your router, allowing multiple devices on your l
 - Your laptop has a private IP (e.g., 192.168.1.50) within your home network.
 - The router has a public IP (e.g., 203.0.113.15), assigned by your ISP, to communicate with the internet.
 - NAT translates your private IP to the public IP when accessing the internet, allowing multiple devices to share one public IP.
+
+
+---
+*Source Repository: [https://github.com/Nency-Ravaliya/How-NAT-Work](https://github.com/Nency-Ravaliya/How-NAT-Work)*
